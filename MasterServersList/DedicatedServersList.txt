@@ -28,7 +28,7 @@ s75community.ddns.net:2700
 s75community.ddns.net:2701
 s75community.ddns.net:2702
 s75community.ddns.net:2703
-#Rogue's LUNACY 24/7
+#Rogue's Lunacy 24/7(stock)
 zeus.styxnet.xyz:2100
 #Scott Manley community server 
 135.23.120.245:8800
